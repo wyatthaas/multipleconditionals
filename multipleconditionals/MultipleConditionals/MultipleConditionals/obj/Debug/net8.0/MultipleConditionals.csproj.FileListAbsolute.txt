@@ -1,0 +1,15 @@
+C:\Users\haas0025\source\repos\multipleconditionals\MultipleConditionals\MultipleConditionals\obj\Debug\net8.0\MultipleConditionals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haas0025\source\repos\multipleconditionals\MultipleConditionals\MultipleConditionals\obj\Debug\net8.0\MultipleConditionals.AssemblyInfoInputs.cache
+C:\Users\haas0025\source\repos\multipleconditionals\MultipleConditionals\MultipleConditionals\obj\Debug\net8.0\MultipleConditionals.AssemblyInfo.cs
+C:\Users\haas0025\source\repos\multipleconditionals\MultipleConditionals\MultipleConditionals\obj\Debug\net8.0\MultipleConditionals.csproj.CoreCompileInputs.cache
+C:\Users\haas0025\source\repos\multipleconditionals\MultipleConditionals\MultipleConditionals\obj\Debug\net8.0\MultipleConditionals.sourcelink.json
+C:\Users\haas0025\source\repos\multipleconditionals\MultipleConditionals\MultipleConditionals\bin\Debug\net8.0\MultipleConditionals.exe
+C:\Users\haas0025\source\repos\multipleconditionals\MultipleConditionals\MultipleConditionals\bin\Debug\net8.0\MultipleConditionals.deps.json
+C:\Users\haas0025\source\repos\multipleconditionals\MultipleConditionals\MultipleConditionals\bin\Debug\net8.0\MultipleConditionals.runtimeconfig.json
+C:\Users\haas0025\source\repos\multipleconditionals\MultipleConditionals\MultipleConditionals\bin\Debug\net8.0\MultipleConditionals.dll
+C:\Users\haas0025\source\repos\multipleconditionals\MultipleConditionals\MultipleConditionals\bin\Debug\net8.0\MultipleConditionals.pdb
+C:\Users\haas0025\source\repos\multipleconditionals\MultipleConditionals\MultipleConditionals\obj\Debug\net8.0\MultipleConditionals.dll
+C:\Users\haas0025\source\repos\multipleconditionals\MultipleConditionals\MultipleConditionals\obj\Debug\net8.0\refint\MultipleConditionals.dll
+C:\Users\haas0025\source\repos\multipleconditionals\MultipleConditionals\MultipleConditionals\obj\Debug\net8.0\MultipleConditionals.pdb
+C:\Users\haas0025\source\repos\multipleconditionals\MultipleConditionals\MultipleConditionals\obj\Debug\net8.0\MultipleConditionals.genruntimeconfig.cache
+C:\Users\haas0025\source\repos\multipleconditionals\MultipleConditionals\MultipleConditionals\obj\Debug\net8.0\ref\MultipleConditionals.dll
